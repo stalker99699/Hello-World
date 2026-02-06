@@ -1,2 +1,2 @@
 # Hello World
-Here are the most crazy and diverse types of hello world. / Здесь самые отбитые и разнообразные типы hello world.
+Here are the most popular and diverse types of hello world in different programming languages. / Здесь самые отбитые и разнообразные типы hello world на разных языках пронграмирования.
